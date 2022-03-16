@@ -1,7 +1,7 @@
 <html>
 
 <head>
-    <title> Data Mahasiswa Elok</title>
+    <title> Data Mahasiswa Elok baru</title>
     <style>
         * {
   box-sizing: border-box;
